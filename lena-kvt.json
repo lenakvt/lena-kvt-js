@@ -1,0 +1,22 @@
+{
+    "name": "Elena",
+    "city": "Batumi",
+    "hasDriverLicense": false,
+    "favouriteFilms": [
+        {
+            "film": "True lies",
+            "genre": "action movie",
+            "rating": 8
+        },
+        {
+            "film": "The Notebook",
+            "genre": "melodrama",
+            "rating": 8
+        },
+        {
+            "film": "Love,Rosie",
+            "genre": "comedy",
+            "rating": 7
+        }
+    ]
+}
